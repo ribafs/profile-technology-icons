@@ -92,8 +92,7 @@ Technoogy Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"> | Jupyter Notebook | `https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png"> | SonarQube | `https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png`
 <img height="50" src="libreoffice.png"> | LibreOffice | libreoffice.png
-
-
+<img height="50" src="firefox.jpeg"> | Firefox | firefox.jpeg
 
 ### 🌐 Web Dev
 Technoogy Icon | Technoogy Name | URL 
