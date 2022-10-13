@@ -194,7 +194,8 @@ Technoogy Icon | Technoogy Name | URL
 Technoogy Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> | php | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png`
-<img height="50" src="laravel.svg"> | Laravel | `laravel.svg`
+<img height="50" src="laravel.svg"> | Framework Laravel | `laravel.svg`
+<img height="50" src="joomla.png"> | CMS Joomla | `joomla.png`
 
 ### 💎 Ruby
 Technoogy Icon | Technoogy Name | URL 
