@@ -93,6 +93,7 @@ Technoogy Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png"> | SonarQube | `https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png`
 <img height="50" src="libreoffice.png"> | LibreOffice | libreoffice.png
 <img height="50" src="firefox.jpg"> | Firefox | firefox.jpg
+<img height="50" src="kolourpaint.png"> | Kolourpaint | kolourpaint.png
 
 ### 🌐 Web Dev
 Technoogy Icon | Technoogy Name | URL 
